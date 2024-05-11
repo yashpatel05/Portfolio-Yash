@@ -14,7 +14,7 @@
 
 ## Live Website
 
-- The live version of this portfolio website can be accessed at [https://your-portfolio-website.com](#).
+- The live version of this portfolio website can be accessed at [https://yashpatel05.netlify.app/](https://yashpatel05.netlify.app/).
 
 ## Used Package List
 
