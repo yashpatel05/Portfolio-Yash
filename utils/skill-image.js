@@ -72,6 +72,8 @@ import vuetifyjs from '/public/svg/skills/vuetifyjs.svg';
 import webix from '/public/svg/skills/webix.svg';
 import wolframalpha from '/public/svg/skills/wolframalpha.svg';
 import wordpress from '/public/svg/skills/wordpress.svg';
+import nodeJs from '/public/svg/skills/nodeJs.svg';
+import springboot from '/public/svg/skills/springboot.svg';
 
 
 export const skillsImage = (skill) => {
@@ -225,6 +227,10 @@ export const skillsImage = (skill) => {
       return wolframalpha;
     case 'canva':
       return canva;
+    case 'node js':
+      return nodeJs;
+    case 'springboot':
+      return springboot;
     default:
       break;
   }
