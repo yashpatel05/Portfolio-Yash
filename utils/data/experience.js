@@ -7,7 +7,7 @@ export const experiences = [
   },
   {
     id: 2,
-    title: "Assistant System Engineer",
+    title: "Full Stack Java Developer",
     company: "Tata Consultancy Services",
     duration: "(February 2021 – September 2022)"
   },
