@@ -1,8 +1,8 @@
 export const personalData = {
   name: "YASH PATEL",
   profile: '/profile.png',
-  designation: "Full-Stack Developer",
-  description: "I'm Yash Patel, a full-stack developer with around 3 years of hands-on experience, specializing in Java and web development. Proficient in backend technologies such as Spring Boot and Hibernate, I've cultivated strong problem-solving skills and effective communication throughout my software development journey. This background enables me to collaborate seamlessly across diverse teams. Thriving in dynamic environments, I leverage my expertise to create impactful solutions. Currently, I am actively seeking exciting job opportunities that allow me to contribute my skills and drive meaningful change in the tech industry.",
+  designation: "Software Developer",
+  description: "I am Yash Patel, a skilled Software Developer with over 3 years of experience in building scalable and efficient web and mobile applications. My expertise lies in Java, Spring Boot, and React.js, along with a strong command of RESTful APIs and cloud services like AWS. I am adept at developing backend systems and integrating microservices to optimize performance and data security. My background includes a solid grasp of DevOps practices using tools like Docker, Kubernetes, and Jenkins for streamlined deployment and continuous integration. I thrive in collaborative environments where innovative solutions are needed to enhance user experience and drive business success. Currently, I am exploring new roles that allow me to leverage my skills and contribute to impactful projects in the tech landscape.",
   email: 'yashpatel9805@gmail.com',
   phone: '+1 365-366-5932',
   address: 'Hamilton, ON, L9A 0C5',

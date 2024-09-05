@@ -1,20 +1,20 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Software Developer (Intern)',
+    title: 'Software Developer',
     company: "The Big Leaf",
-    duration: "(January 2024 – April 2024)"
+    duration: "(December 2023 – Present)"
   },
   {
     id: 2,
-    title: "Full Stack Developer",
+    title: "Assistant System Engineer",
     company: "Tata Consultancy Services",
-    duration: "(February 2021 – September 2022)"
+    duration: "(June 2021 – September 2022)"
   },
   {
     id: 3,
     title: "Jr. Software Developer",
     company: "Silverwing Technologies PVT LTD",
-    duration: "(January 2020 – February 2021)"
+    duration: "(June 2020 – May 2021)"
   }
 ]
