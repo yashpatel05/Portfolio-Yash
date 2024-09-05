@@ -40,15 +40,5 @@ export const projectsData = [
         code: '',
         demo: '',
         image: '',
-    },
-    {
-        id: 5,
-        name: 'Railway Ticket Plaza',
-        description: 'The Train-Ticket-Reservation-System is a platform designed to streamline train travel management. It allows users to access train schedules, search for specific trains, check seat availability, and obtain details about train timings. The system also facilitates fare inquiries for different trains and provides information about available trains between chosen stations. With its secure online seat booking functionality, it ensures a safe and reliable reservation experience.',
-        tools: ['Servlets', 'JSP', 'Javabeans', 'JDBC', 'HTML', 'CSS', 'Bootstrap', 'MySQL'],
-        code: '',
-        role: 'Software Developer',
-        demo: '',
-        image: '',
     }
 ];
